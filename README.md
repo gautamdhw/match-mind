@@ -5,15 +5,13 @@ MatchMind is a machine learning-based cricket prediction system that provides in
 ## Features
 - **Match Outcome Prediction**: Predicts which team is likely to win a match.
 - **Score Prediction**: Estimates the total score a team will achieve in an innings.
-- **Player Performance Prediction**: Forecasts individual player performance, including runs scored and wickets taken.
-- **Live Cricket Scores**: Integrates live match scores into the system.
-
+- **Player Performance Prediction**: Forecasts individual player performance, including runs scored and wickets taken. (Coming Soon)
+  
 ## Technologies Used
 - **Backend**: Flask (Python)
 - **Frontend**: HTML, CSS, JavaScript
 - **Machine Learning**: Scikit-learn, Pandas, NumPy
 - **Data Visualization**: Chart.js, D3.js
-- **API Integration**: Live cricket score API
 
 ## Installation
 ### Prerequisites
@@ -49,7 +47,6 @@ Ensure you have the following installed:
 - Enter player and team data in the provided form.
 - Click the 'Predict' button to get match and player insights.
 - View results with graphical data representation.
-- Check live match scores directly on the platform.
 
 ## Contributing
 1. Fork the repository.
